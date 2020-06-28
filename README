@@ -2,7 +2,7 @@
 
 Mapa do Brasil de Regiões mapeado em CSS
 
-Exemplo no site da ONG CASA
+Exemplo na [página de voluntários](https://casaong.org/voluntarios/) do [site](https://casaong.org) da Casa ONG
 
 Características:
 
@@ -10,9 +10,9 @@ Características:
 
 Changelog:
 
- * Modificado para regiões do Brasil do [mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS)
+ * Modificado de estados do Brasil para regiões do [mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS)
 
- * Criado por [@rafaelpvale](https://github.com/rafaelpvale)
+ * Criado originalmente por [@rafaelpvale](https://github.com/rafaelpvale)
 
  * Técnica desenvolvida por Roman Cortes
     http://www.romancortes.com/blog/xhtmlcss-mapmapa/
